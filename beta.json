@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "build": 494,
+  "url": "https://github.com/Azilone/loam-releases/releases/download/v0.1.0/Loam-0.1.0.zip",
+  "size": 29047903,
+  "sha256": "a71d133a2f5ed62e03cddda871eeb561fbe4c3809ea1ce9f86c2f1fbadc02099",
+  "signature": "pYXD+kt72a+hzOJqDXUxHdlOGHokzj1kRfY9aBI2O7FMB8L4FrEUeN4HyuoF+D2rpmG+40fVo2tXzCYLzJDeBw==",
+  "minimumSystemVersion": "26.0",
+  "notes": "First release of Loam.",
+  "date": "2026-10-29"
+}
