@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "build": 500,
+  "url": "https://github.com/Azilone/loam-releases/releases/download/v0.1.2/Loam-0.1.2.zip",
+  "size": 69526653,
+  "sha256": "2aa70c0cea47a701deff5741d7b9bd56bd932e450157aed40a003c5b8ffddca6",
+  "signature": "EYmg3LOtRR7sKryv7vlgygqx26n+rblOaAz78dPahuy1qJ6V4ZRRYh69D6Uk+dDqP2ghx2Tl0jxQgqoQPtZVDg==",
+  "minimumSystemVersion": "26.0",
+  "notes": "- Fixed: a board or collection inside a note follows a theme change (light, dark or another theme) at once, card titles included.\n- Reorder a board's columns: drag a column by its header.\n- Collections are folders: click one to open it, make one from New, or embed one in a note.\n- Daily notes go to a Journal folder, sorted by year and month.\n- When an update is ready, \"Update Loam\" appears in the vault menu: one click restarts into the new version.\n- Fixed: the Home page stayed blank after closing the last tab with \u2318W.\n- Fixed: the sidebar could scroll into empty space after folding a section.",
+  "date": "2026-11-07"
+}
